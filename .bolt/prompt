@@ -1,0 +1,16 @@
+We are using basejump for this project:
+
+Quickstart for Basejump (recommended)
+This guide will walk you through the process of getting started with Basejump. It assume you've already installed the Supabase CLI.
+
+Setup your basejump project
+Create a folder for your project and initialize it with the Basejump CLI.
+
+mkdir my-project && cd my-project
+npx @usebasejump/cli@latest init
+
+
+That's it!
+You're now ready to start Supabase and begin development using Basejump.
+
+supabase start
